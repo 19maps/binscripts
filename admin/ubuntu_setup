@@ -8,6 +8,14 @@
 # Date: 2019.12.06
 #
 #####################################################################
+# TODO:
+#
+# Install docker: https://docs.docker.com/engine/install/ubuntu/
+# Install dockly: https://github.com/lirantal/dockly
+# Install pgAdmin: https://www.pgadmin.org/docs/pgadmin4/4.29/index.html
+#
+#####################################################################
+
 
 
 declare __STANDARDSOFTWARE=$(tr -s [:space:] '&' <<EOF
